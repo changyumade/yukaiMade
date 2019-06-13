@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "GroupManager2.updateState(newGroup:removedGroup:):GroupManager2.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "targetGroup">
+            </PersistentString>
+            <PersistentString
+               value = "blackGroups">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.releaseBtn(sender:):ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.detectPan(gesture:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "state">
+            </PersistentString>
+            <PersistentString
+               value = "gesture.state">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GroupManager2.checkPointEmpty(boardPosition:isBlack:):GroupManager2.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "state">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.viewDidLoad():ViewController.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
